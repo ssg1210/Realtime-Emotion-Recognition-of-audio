@@ -1,5 +1,5 @@
 # Realtime-Emotion-Recognition-of-audio
-This Project is a part of the Digital Signal Processing Lab of NYU
+The project is a part of course ECE-GY 6183 DSP Lab (Fall 2022)
 
 Participants: 
 
